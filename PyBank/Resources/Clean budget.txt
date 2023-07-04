@@ -1,0 +1,13 @@
+
+Financial Analysis
+----------------------------------
+
+Total Months: 86
+
+Total: $22564198.0
+
+The greatest increase is: ['Mar-13', '1141840']
+
+The greatest decrease is: ['Dec-10', '-1194133']
+
+Average Change: 262374
